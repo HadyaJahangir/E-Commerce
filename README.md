@@ -1,4 +1,4 @@
-This project is a work in Progess. This is an e-commerce website bellow is the view of the homepage. I am using firebase for authentiation and manually storing the data like username, clothes collection, user cart details etc in firestore.
+This project is a work in Progess. This is an e-commerce website bellow is the view of the homepage. I am using firebase for authentiation and manually storing the data like username, clothes collection, user cart details etc in firestore. 
 
 ![image](https://github.com/HadyaJahangir/E-Commerce/assets/113433737/631abdaf-bcbf-41b9-8009-892fdd763bdf)
 ![image](https://github.com/HadyaJahangir/E-Commerce/assets/113433737/ebe5710e-263c-4ba9-87c6-aadc59bbd178)
