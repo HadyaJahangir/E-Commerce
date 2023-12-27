@@ -1,0 +1,17 @@
+.CardLayout{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2%;
+    align-items: center;
+
+}
+
+.img{
+    width: 357px;
+    height: 360px;
+}
+
+.myB{
+    width: 100%;
+}
+

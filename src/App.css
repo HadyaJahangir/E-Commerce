@@ -1,38 +1,56 @@
-.App {
-  text-align: center;
+.footer{
+    margin-top: 5%;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+/* Add this CSS to remove underline and change link color */
+/* .navbar-nav .nav-link {
+    text-decoration: none;
+    color: ; /* Change this to the color you want 
   }
-}
+  
+  /* Add this CSS to remove underline and change link color for dropdown items 
+  .navbar-nav .nav-item .nav-link {
+    text-decoration: none;
+    color: #000; /* Change this to the color you want 
+  } */
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  Link{
+    text-decoration: "none";
+    color: black;
   }
-  to {
-    transform: rotate(360deg);
+
+  .special{
+    overflow:hidden
   }
-}
+
+  .userName{
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 20px;
+
+
+  }
+
+  .user{
+    height: 40px;
+    margin-top: 5px;
+    border-radius: 100%;
+    /* margin-top: 8px;
+    margin-right: 10px; */
+    /* margin-left: 12%; */
+  }
+
+  .btn{
+    height: 50px;
+    width: 100px;
+  }
+
+  .btn2{
+    width: 120px;
+  }
+  .btn3{
+    width: 120px;
+  }
+
+  #basic-nav-dropdown{
+    margin-left: 20px;
+  }
